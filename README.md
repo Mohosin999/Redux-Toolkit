@@ -5,7 +5,7 @@
 - [What is TypeScript?](#-what-is-typescript)
 - [What's Wrong with JavaScript?](#-whats-wrong-with-javascript)
 - [Benefits of TypeScript](#-benefits-of-typescript)
-- [Install TypeScript](#-install-typescript)
+- [Install TypeScript](#install-typescript)
 
 ## 📘 What is TypeScript?
 
