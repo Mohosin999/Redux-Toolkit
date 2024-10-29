@@ -1,3 +1,3 @@
-# Clean YouTube Application
+# TypeScript
 
-loading...
+A JavaScript's Super-set.
