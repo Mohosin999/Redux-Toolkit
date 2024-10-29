@@ -1,13 +1,13 @@
-# TypeScript
+# TypeScript 💙
 
-## Table of Contents
+## 📜 Table of Contents
 
-- [What is TypeScript?](#-what-is-typescript)
-- [What's Wrong with JavaScript?](#-whats-wrong-with-javascript)
-- [Benefits of TypeScript](#-benefits-of-typescript)
+- [What is TypeScript?](#what-is-typescript)
+- [What's Wrong with JavaScript?](#whats-wrong-with-javascript)
+- [Benefits of TypeScript](#benefits-of-typescript)
 - [Install TypeScript](#install-typescript)
 
-## What is TypeScript?
+## 📘 What is TypeScript?
 
 A JavaScript's Superset created by Microsoft.
 
@@ -19,7 +19,7 @@ A JavaScript's Superset created by Microsoft.
 
 Our browser can't understand TypeScript, it somehow compile to JavaScript.
 
-## What's Wrong with JavaScript?
+## 🚫 What's Wrong with JavaScript?
 
 - JavaScript is not suitable for larger applications
 - Lacks strong typing
@@ -27,14 +27,14 @@ Our browser can't understand TypeScript, it somehow compile to JavaScript.
 - Only errors during runtime
 - Suffers type coercion
 
-## Benefits of TypeScript
+## 🌟 Benefits of TypeScript
 
 - TypeScript = JavaScript (don't need to learn anything new if already know JavaScript)
 - Compiles to JavaScript - runs everywhere
 - Familiar OOP
 - New features work everywhere
 
-## Install TypeScript
+## 🛠️ Install TypeScript
 
 - Install Node.js in your machine (no need if already installed)
 - Install TypeScript compiler
@@ -43,4 +43,4 @@ Our browser can't understand TypeScript, it somehow compile to JavaScript.
 npm i -g typescript
 ```
 
-##### Done!
+##### 🎉 Done!
