@@ -51,10 +51,18 @@
 //     Large,
 //   }
 // If we use `const`, it generates more optimize code
-const enum Size {
-  Small = 5,
-  Medium,
-  Large,
+// const enum Size {
+//   Small = 5,
+//   Medium,
+//   Large,
+// }
+// let mySize: Size = Size.Large;
+// console.log(mySize);
+
+/**
+ * Functions
+ */
+
+function calculateTax(income: number): number {
+  return 0;
 }
-let mySize: Size = Size.Large;
-console.log(mySize);
