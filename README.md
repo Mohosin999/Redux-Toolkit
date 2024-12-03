@@ -43,4 +43,10 @@ Our browser can't understand TypeScript, it somehow compile to JavaScript.
 npm i -g typescript
 ```
 
+## Create Configuration File
+
+```
+tsc --init
+```
+
 ##### 🎉 Done!
