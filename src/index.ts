@@ -71,3 +71,22 @@ function calculateTax(income: number): number {
 function calculateTax1(income: number, deposit?: number): number {
   return income - (deposit || 20_000);
 }
+
+/**
+ * Objects
+ */
+
+let employee: {
+  id: number;
+  name: string;
+} = { id: 1, name: "" };
+
+employee.name = "Akash";
+
+// If we want to prevent changing any property, use `readonly`
+let employee1: {
+  readonly id: number;
+  name: string;
+} = { id: 1, name: "" };
+
+employee.name = "Akash";
